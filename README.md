@@ -18,7 +18,6 @@ This is the location of General Sir Jhon Kotelawala Defence University Southern 
 
 <div class="image-container">
 
-   <img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Untitled-1.png" width="475" height="325">
    <img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Screenshot (293).png" width="475" height="325">
    <img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Screenshot (295).png" width="475" height="325">
    <img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Screenshot (216).png" width="475" height="325">
