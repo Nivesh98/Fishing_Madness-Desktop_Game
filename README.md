@@ -5,11 +5,14 @@ This is my first 2D game and this is made for a first-year university group proj
 
 Click the image below for the demo video
 
+<div align="center">
 <a href="https://youtu.be/HqRsz280RHw"><img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Untitled-1.png" width="475" height="325"></a>
+</div>
 
 <p align="center" style="font-size: 40px;">UI designs</p>
 
-<p align="center">Short animation of campus life.
+Short animation of campus life.
+<p align="center">
 This is the location of General Sir Jhon Kotelawala Defence University Southern Campus. This shows a simple animation of how university undergraduates live there. This has been created using <b>Adobe tools</b> and <b>Vegas Pro</b>
 </p>
 
@@ -27,7 +30,9 @@ This is the location of General Sir Jhon Kotelawala Defence University Southern 
    <img src="https://media.githubusercontent.com/media/Nivesh98/Fishing_Madness/main/fishingMadness/Screenshot (302).png" width="475" height="325">
 </div>
 
-<p align="center">Game ()
+
+Game
+<p align="center">
 This is the location of General Sir Jhon Kotelawala Defence University Southern Campus. This is a 2D game </b>FishingMadness</b>related the lake which is lacated in campus. This has been created using <b>Unity software</b>. These are some function of the game.
 </p>
 
